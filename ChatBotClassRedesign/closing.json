@@ -1,0 +1,403 @@
+{
+  "Closing1": {
+    "P1": {
+      "title": "Closing1_P1",
+      "dialogue": "Estamos a chegar ao fim da atividade de hoje! Foi útil?",
+      "options": [
+        {"answer": "Foi sim, Ema!", "nextCode": "Closing1_P2"},
+        {"answer": "Tenho medo de não me lembrar de tudo...", "nextCode": "Closing1_P2"}
+      ]
+    },
+    "P2": {
+      "title": "Closing1_P2",
+      "dialogue": "Relembro que pode consultar os conteúdos disponíveis na aplicação sempre que quiser!",
+      "options": [
+        {"answer": "Obrigado, Ema!", "nextCode": "Closing1_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing1_P3",
+      "dialogue": "Amanhã vamos falar sobre um tema muito importante. Conto consigo?",
+      "options": [
+        {"answer": "Pode contar!", "nextCode": "Closing1_P4"},
+        {"answer": "Amanhã não sei se consigo.", "nextCode": "Closing1_P3_1"}
+      ]
+    },
+    "P3_1": {
+      "title": "Closing1_P3_1",
+      "dialogue": "Volto assim que possível. Fico à espera!",
+      "options": [
+        {"answer": "Continuar", "nextCode": "Closing1_P3_2"}
+      ]
+    },
+    "P3_2": {
+      "title": "Closing1_P3_2",
+      "dialogue": "Até amanhã!",
+      "options": [
+        {"answer": "End", "nextCode": "End"}
+      ]
+    },
+    "P4": {
+      "title": "Closing1_P4",
+      "dialogue": "Fico contente! Até amanhã!",
+      "options": [
+        {"answer": "Até amanhã, Ema!", "nextCode": "End"}
+      ]
+    }
+  },
+  "Closing2": {
+    "P1": {
+      "title": "Closing2_P1",
+      "dialogue": "Por hoje estamos a terminar. Espero que tenha sido interessante!",
+      "options": [
+        {"answer": "Foi bastante interessante.", "nextCode": "Closing2_P2"},
+        {"answer": "Acho que é uma boa ajuda.", "nextCode": "Closing2_P2"}
+      ]
+    },
+    "P2": {
+      "title": "Closing2_P2",
+      "dialogue": "Continua com motivação para voltar amanhã?",
+      "options": [
+        {"answer": "Sim, muita!", "nextCode": "Closing2_P3"},
+        {"answer": "Por vezes tenho medo de falhar.", "nextCode": "Closing2_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing2_P3",
+      "dialogue": "Estou sempre aqui, para ajudar no que for preciso.",
+      "options": [
+        {"answer": "Obrigado, Ema!", "nextCode": "Closing2_P4"}
+      ]
+    },
+    "P4": {
+      "title": "Closing2_P4",
+      "dialogue": "Espero por si amanhã!",
+      "options": [
+        {"answer": "Cá estarei, até amanhã!", "nextCode": "End"}
+      ]
+    }
+  },
+  "Closing3": {
+    "P1": {
+      "title": "Closing3_P1",
+      "dialogue": "Estamos a chegar ao fim. Hoje foi um dia muito produtivo!",
+      "options": [
+        {"answer": "Concordo, Ema!", "nextCode": "Closing3_P2"}
+      ]
+    },
+    "P2": {
+      "title": "Closing3_P2",
+      "dialogue": "Relembro que é importante pôr em prática aquilo que conversámos!",
+      "options": [
+        {"answer": "Vou tentar!", "nextCode": "Closing3_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing3_P3",
+      "dialogue": "Conte comigo para dar apoio, estou sempre deste lado. Espero por si amanhã!",
+      "options": [
+        {"answer": "Obrigado, cá estarei!", "nextCode": "Closing3_P4"}
+      ]
+    },
+    "P4": {
+      "title": "Closing3_P4",
+      "dialogue": "Que bom! Até amanhã!",
+      "options": [
+        {"answer": "Até amanhã, Ema!", "nextCode": "End"}
+      ]
+    }
+  },
+  "Closing4": {
+    "P1": {
+      "title": "Closing4_P1",
+      "dialogue": "Vamos terminar por hoje. Estamos a fazer um caminho fantástico!",
+      "options": [
+        {"answer": "Concordo consigo, Ema!", "nextCode": "Closing4_P2"}
+      ]
+    },
+    "P2": {
+      "title": "Closing4_P2",
+      "dialogue": "O assunto que trataremos amanhã também será importante.",
+      "options": [
+        {"answer": "Ainda bem! Já sinto curiosidade!", "nextCode": "Closing4_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing4_P3",
+      "dialogue": "É bom sentir a sua motivação. Espero por si de novo amanhã!",
+      "options": [
+        {"answer": "Conte comigo, Ema!", "nextCode": "Closing4_P4"}
+      ]
+    },
+    "P4": {
+      "title": "Closing4_P4",
+      "dialogue": "Fico feliz por saber isso! Até amanhã!",
+      "options": [
+        {"answer": "Até amanhã!", "nextCode": "End"}
+      ]
+    }
+  },
+  "Closing5": {
+    "P1": {
+      "title": "Closing5_P1",
+      "dialogue": "Estamos a terminar. Sente motivação para pôr em prática as novas aprendizagens?",
+      "options": [
+        {"answer": "Sim, vamos a isso!", "nextCode": "Closing5_P2"},
+        {"answer": "Espero lembrar-me de tudo...", "nextCode": "Closing5_P2"}
+      ]
+    },
+    "P2": {
+      "title": "Closing5_P2",
+      "dialogue": "Estou cá para apoiar. Não se esqueça que pode consultar outras informações na aplicação sempre que sentir necessidade!",
+      "options": [
+        {"answer": "Obrigado, Ema.", "nextCode": "Closing5_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing5_P3",
+      "dialogue": "Amanhã teremos outras atividades muito interessantes. Posso contar consigo?",
+      "options": [
+        {"answer": "Pode sim!", "nextCode": "Closing5_P4"},
+        {"answer": "Amanhã não sei se posso falar consigo.", "nextCode": "Closing5_P3_1"}
+      ]
+    },
+    "P3_1": {
+      "title": "Closing5_P3_1",
+      "dialogue": "Compreendo! É importante que venha todos os dias para conversarmos.",
+      "options": [
+        {"answer": "Continuar", "nextCode": "Closing5_P4"}
+      ]
+    },
+    "P4": {
+      "title": "Closing5_P4",
+      "dialogue": "Fico feliz! É sempre um prazer conversar consigo. Até lá!",
+      "options": [
+        {"answer": "Adeus, Ema!", "nextCode": "End"}
+      ]
+    }
+  },
+  "Closing6": {
+    "P1": {
+      "title": "Closing6_P1",
+      "dialogue": "Vamos finalizar por hoje. Foi esclarecedor?",
+      "options": [
+        {"answer": "Sim, muito!", "nextCode": "Closing6_P2"},
+        {"answer": "Mais ou menos...", "nextCode": "Closing6_P1_1"}
+      ]
+    },
+    "P1_1": {
+      "title": "Closing6_P1_1",
+      "dialogue": "Vai ver que ao longo dos dias vai tudo ficando mais claro.",
+      "options": [
+        {"answer": "Continuar", "nextCode": "Closing6_P2"}
+      ]
+    },
+    "P2": {
+      "title": "Closing6_P2",
+      "dialogue": "Relembro que pode consultar os conteúdos e informações na aplicação, sempre que tiver dúvidas!",
+      "options": [
+        {"answer": "Obrigado, Ema!", "nextCode": "Closing6_P2_1"}
+      ]
+    },
+    "P2_1": {
+      "title": "Closing6_P2_1",
+      "dialogue": "Também pode consultar o seu desempenho nas várias atividades que fazemos.",
+      "options": [
+        {"answer": "Continuar", "nextCode": "Closing6_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing6_P3",
+      "dialogue": "Pode contar com o meu apoio todos os dias. Vemo-nos amanhã?",
+      "options": [
+        {"answer": "Sim, cá estarei!", "nextCode": "Closing6_P4"}
+      ]
+    },
+    "P4": {
+      "title": "Closing6_P4",
+      "dialogue": "Que bom. Até amanhã!",
+      "options": [
+        {"answer": "Até amanhã, Ema!", "nextCode": "End"}
+      ]
+    }
+  },
+  "Closing7": {
+    "P1": {
+      "title": "Closing7_P1",
+      "dialogue": "Estamos a chegar ao fim. Hoje falámos de um assunto importante. Sente motivação para para pôr em prática?",
+      "options": [
+        {"answer": "Sim, vamos a isso!", "nextCode": "Closing7_P2"},
+        {"answer": "Por vezes tenho medo de não ser capaz...", "nextCode": "Closing7_P2"}
+      ]
+    },
+    "P2": {
+      "title": "Closing7_P2",
+      "dialogue": "Relembro que pode sempre recorrer à sua equipa de saúde para esclarecer qualquer dúvida que tenha.",
+      "options": [
+        {"answer": "Obrigado, Ema!", "nextCode": "Closing7_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing7_P3",
+      "dialogue": "Eu estou sempre deste lado, posso contar consigo amanhã?",
+      "options": [
+        {"answer": "Pode sim!", "nextCode": "Closing7_P4"}
+      ]
+    },
+    "P4": {
+      "title": "Closing7_P4",
+      "dialogue": "Ótimo, até amanhã!",
+      "options": [
+        {"answer": "Até amanhã.", "nextCode": "End"}
+      ]
+    }
+  },
+  "Closing8": {
+    "P1": {
+      "title": "Closing8_P1",
+      "dialogue": "E chegámos ao fim da nossa atividade de hoje. Parabéns, está a conseguir!",
+      "options": [
+        {"answer": "Obrigado, Ema!", "nextCode": "Closing8_P2"}
+      ]
+    },
+    "P2": {
+      "title": "Closing8_P2",
+      "dialogue": "Amanhã trataremos de um tema importante, venha com energia!",
+      "options": [
+        {"answer": "Vou tentar!", "nextCode": "Closing8_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing8_P3",
+      "dialogue": "Pode contar com o meu apoio. Fico à sua espera!",
+      "options": [
+        {"answer": "Cá estarei, até amanhã!", "nextCode": "Closing8_P4"}
+      ]
+    },
+    "P4": {
+      "title": "Closing8_P4",
+      "dialogue": "Que bom, é um prazer conversar consigo. Até amanhã!",
+      "options": [
+        {"answer": "End", "nextCode": "End"}
+      ]
+    }
+  },
+  "Closing9": {
+    "P1": {
+      "title": "Closing9_P1",
+      "dialogue": "Por hoje terminámos. Foi muito boa a nossa interação de hoje! Gostou?",
+      "options": [
+        {"answer": "Vale sempre a pena conversar consigo.", "nextCode": "Closing9_P2"}
+      ]
+    },
+    "P2": {
+      "title": "Closing9_P2",
+      "dialogue": "Espero que nos encontremos amanhã. Adeus!",
+      "options": [
+        {"answer": "Continuar", "nextCode": "Closing9_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing9_P3",
+      "dialogue": "Estarei aqui amanhã quando voltar.",
+      "options": [
+        {"answer": "Até amanhã, Ema.", "nextCode": "End"}
+      ]
+    }
+  },
+  "Closing10": {
+    "P1": {
+      "title": "Closing10_P1",
+      "dialogue": "Estamos a encerrar a nossa conversa por hoje. Considera valioso o tempo que investiu comigo?",
+      "options": [
+        {"answer": "Sem dúvida!", "nextCode": "Closing10_P2"},
+        {"answer": "Ainda não consigo aplicar bem o que fomos falando...", "nextCode": "Closing10_P5"}
+      ]
+    },
+    "P2": {
+      "title": "Closing10_P2",
+      "dialogue": "Continue a explorar a aplicação e aplicar as estratégias discutidas.",
+      "options": [
+        {"answer": "Obrigada pela dica Ema.", "nextCode": "Closing10_P3"},
+        {"answer": "Vou dar o meu melhor!", "nextCode": "Closing10_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing10_P3",
+      "dialogue": "Estarei sempre aqui! Espero por si amanhã.",
+      "options": [
+        {"answer": "End", "nextCode": "End"}
+      ]
+    },
+    "P5": {
+      "title": "Closing10_P5",
+      "dialogue": "Lembre-se, cada pequeno passo conta.",
+      "options": [
+        {"answer": "Tenho aprendido isso Ema, obrigada!", "nextCode": "Closing10_P2"},
+        {"answer": "Nem sempre é fácil Ema.", "nextCode": "Closing10_P2"}
+      ]
+    },
+    "P6": {
+      "title": "Closing10_P6",
+      "dialogue": "Compreendo! É importante que venha todos os dias para conversarmos.",
+      "options": [
+        {"answer": "Vou fazer um esforço.", "nextCode": "Closing10_P4"}
+      ]
+    },
+    "P4": {
+      "title": "Closing10_P4",
+      "dialogue": "Estarei sempre aqui! Espero por si amanhã.",
+      "options": [
+        {"answer": "Folgo em saber.", "nextCode": "End"}
+      ]
+    }
+  },
+  "Closing11": {
+    "P1": {
+      "title": "Closing11_P1",
+      "dialogue": "Parabéns pelo seu esforço hoje. Cada passo que dá é uma vitória!",
+      "options": [
+        {"answer": "Obrigado, estou a esforçar-me.", "nextCode": "Closing11_P2"},
+        {"answer": "Não vejo grandes progressos, por isso, não sinto que tenha sido uma vitória.", "nextCode": "Closing11_P5"}
+      ]
+    },
+    "P2": {
+      "title": "Closing11_P2",
+      "dialogue": "Estou aqui para apoiar, mas a sua presença é crucial para o progresso.",
+      "options": [
+        {"answer": "Estou a começar a entender isso Ema.", "nextCode": "Closing11_P3"},
+        {"answer": "É reconfortante saber que há apoio.", "nextCode": "Closing11_P3"}
+      ]
+    },
+    "P3": {
+      "title": "Closing11_P3",
+      "dialogue": "Estou ansiosa para continuar esta jornada consigo amanhã. Conto com a sua participação?",
+      "options": [
+        {"answer": "Sim, claro!", "nextCode": "Closing11_P4"},
+        {"answer": "Amanhã não sei se consigo.", "nextCode": "Closing11_P6"}
+      ]
+    },
+    "P5": {
+      "title": "Closing11_P5",
+      "dialogue": "Lembre-se, a mudança leva tempo e esforço contínuo. Estou confiante de que veremos progressos significativos.",
+      "options": [
+        {"answer": "Espero vê-los em breve.", "nextCode": "Closing11_P2"},
+        {"answer": "Estou a contar com isso.", "nextCode": "Closing11_P2"}
+      ]
+    },
+    "P6": {
+      "title": "Closing11_P6",
+      "dialogue": "Compreendo! É importante que venha todos os dias para conversarmos.",
+      "options": [
+        {"answer": "Vou fazer um esforço.", "nextCode": "Closing11_P4"}
+      ]
+    },
+    "P4": {
+      "title": "Closing11_P4",
+      "dialogue": "Que bom, é um prazer conversar consigo. Até amanhã!",
+      "options": [
+        {"answer": "End", "nextCode": "End"}
+      ]
+    }
+  }
+}

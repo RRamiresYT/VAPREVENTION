@@ -1,0 +1,79 @@
+{
+    "dialogue_phrases": [
+      {
+        "order": 1,
+        "phrases": [
+          "Olá, o meu nome é Ema e serei a sua coach virtual. A diabetes tipo 2 é uma doença que pode ser prevenida e eu estou aqui para ajudar!",
+          "Estou programada para oferecer estratégias e motivar para a mudança de estilos de vida ao longo desta jornada. ",
+          "É importante partilhar consigo as limitações inerentes à minha natureza digital. Não fui programada para compreender as suas emoções, nem para lidar com situações complexas e imprevistas, que necessitam do apoio de profissionais de saúde.",
+          "Em resumo, em conjunto com os seus profissionais de saúde, os seus familiares e os seus amigos posso ajudar a fazer alterações ao seu estilo de vida para prevenir a diabetes tipo 2.",
+          "É um prazer estar aqui hoje. Vamos começar? Clique no botão “Avançar”."
+        ],
+        "answer": "Avançar!"
+      },
+      {
+        "order": 2,
+        "phrases": [
+          "Em conjunto, vamos explorar hábitos alimentares e de atividade física para prevenir a diabetes tipo 2.",
+          "Eu comunico consigo através de uma voz sintética e legendas. Se preferir, pode reduzir o som do seu dispositivo e ler apenas as legendas. O rumo das nossas conversas é decidido por si, selecionando os botões de resposta que aparecem no ecrã.",
+          "Estou sempre por aqui, mas fui programada para interagir consigo apenas uma vez por dia. Cabe-lhe a si decidir com que frequência vamos falar. Algumas pessoas acham que é útil interagir comigo diariamente. Outras pessoas preferem espaçar mais as interações. Para ser a sua aliada na prevenção da diabetes tipo 2 é importante que conversemos com a maior regularidade possível para si.",
+          "Para iniciar a nossa jornada vou pedir que responda a um conjunto de questões sobre hábitos alimentares e de atividade física. Não se trata de um teste de avaliação e não quero julgar! As suas respostas permitem oferecer estratégias mais ajustadas ao seu estilo de vida e rotinas.",
+          "Ao longo das nossas interações, vou apoiar a sua decisão sobre objetivos realistas para a atividade física e alimentação, vou ajudar a ultrapassar barreiras e celebrar as suas conquistas, por muito pequenas que possam parecer. A prevenção da diabetes tipo 2 é um compromisso de longo prazo, eu quero ajudar a fazer a diferença na sua vida.",
+          "Eu faço parte de uma aplicação web que tem outros recursos, para saber mais clique em “Avançar”."
+        ],
+        "answer": "Avançar!"
+      },
+      {
+        "order": 3,
+        "phrases": [
+          "É um orgulho apresentar a aplicação web. Eu sou a alma desta aplicação, mas há muito mais. Clique no botão para visionar um breve vídeo sobre os recursos da aplicação.",
+          "Depois de entrar na aplicação encontra um conjunto de botões com opções. Ao clicar no botão 'Falar com a Ema', inicia uma conversa comigo, em que ofereço estratégias para motivar a mudança de hábitos alimentares e de atividade física. Fui programada para interagir consigo apenas uma vez por dia. Pode usar todos os outros recursos da aplicação, quantas vezes quiser ao dia.",
+          "No botão 'Saber mais sobre alimentação' encontra informação sobre 11 temas, incluindo o consumo de hortícolas e fruta. Tem dúvidas sobre o que são leguminosas e oleaginosas? Então este recurso pode ajudar. Em cada um dos 11 temas tem um conjunto de perguntas, para se testar. As respostas fornecem informação, para aumentar o seu conhecimento de forma interativa.",
+          "No botão 'Saber mais a atividade física' encontra informação sobre 2 temas, o comportamento sedentário e atividade física. Descubra o que significa comportamento sedentário e que estratégias as pessoas podem usar para serem mais ativas. Quer saber o que é atividade física de intensidade ligeira e moderada? A informação disponível também pode ser útil. Tal como para a alimentação, pode encontrar um conjunto de perguntas, para testar o seu conhecimento.",
+          "Em ambos os temas, pode testar-se quantas vezes quiser, ficando com um registo das suas últimas respostas.",
+          "Para uma visão abrangente do seu progresso em relação aos estilos de vida saudáveis, pode recorrer ao botão “Consultar os meus resultados e evolução  ”. Por exemplo, pode ver o seu histórico do número de passos em gráfico e as metas alcançadas ao longo do tempo. Pode também encontrar indicadores sobre os seus hábitos alimentares, que permitem comparar o seu progresso.",
+          "Outra funcionalidade que pode encontrar é o botão “Consultar os meus dados antropométricos”  , onde pode visualizar e atualizar dados como o peso, altura e circunferência da cintura. Trata-se de uma ferramenta valiosa que pode ajudar a tomar decisões relacionadas com o seu estilo de vida.",
+          "Por último, o botão 'Ver ou alterar a rede de suporte' facilita a partilha do seu progresso e resultados com pessoas importantes para si, como familiares, amigos ou profissionais de saúde. Esta funcionalidade ajuda a construir uma rede de apoio, permitindo adicionar pessoas através do seu email e gerir quem pode visualizar os seus dados, assegurando controlo total. Pode igualmente receber e enviar mensagens, promovendo um ambiente motivacional."
+        ],
+        "answer": "Avançar!"
+      },
+      {
+        "order": 4,
+        "phrases": [
+          "A diabetes tipo 2 é uma doença crónica que pode ser prevenida através da adoção de estilos de vida saudáveis.",
+          "Uma alimentação equilibrada e a praticar atividade física regularmente são fatores fundamentais para reduzir o risco de desenvolver diabetes tipo 2.",
+          "Outros fatores podem contribuir para o aumento do risco de desenvolvimento de diabetes tipo 2. Por exemplo, o excesso de peso é um fator associado ao risco de diabetes tipo 2. Também se sabe que as pessoas mais velhas têm maior probabilidade de vir a desenvolver diabetes tipo 2.",
+          "Alguns fatores podem ser modificados, como a alimentação e a atividade física, que referi anteriormente. Outros, como a idade, não são passíveis de ser alterados.",
+          "Como disse, estou aqui para ajudar a fazer alterações ao seu estilo de vida para prevenir a diabetes tipo 2. Em conjunto, vamos explorar os hábitos alimentares adequados e estratégias para aumentar a prática de atividade física.",
+          "Estes são dois pilares da prevenção desta doença."
+        ],
+        "answer": "Porquê?"
+      },
+      {
+        "order": 5,
+        "phrases": [
+          "Adotar uma dieta equilibrada, variada e completa é um fator essencial para a saúde e prevenir a diabetes tipo 2. A dieta Mediterrânica, é um padrão alimentar que segue estes princípios e tem benefícios reconhecidos.",
+          "Esta dieta carateriza-se pela ingestão de alimentos de origem vegetal, como frutas, vegetais, leguminosas e frutos oleaginosoas, (como as nozes ou amêndoas). O azeite é destacado como a principal fonte de gordura, promovendoconstituindo uma escolha mais saudável, em detrimento de outras gorduras. Uma característica notável daNa dieta Mediterrânica, é é dada preferência porao consumo de peixe e existe moderação no consumo de carne, s ao invés de carnes, especialmente as vermelhas, e um consumo limitado de bebidas alcoólicas.",
+          "A dieta Mediterrânica apela àvaloriza a sazonalidade dos produtos, preferindo os que são produzidos localmente, e comda preferência a práticas culinárias simples, que realçam os sabores naturais dos alimentos. Por exemplo, no verão, os pratos à base de tomate, beringela e courgette são comuns, aproveitando a sua abundância. Saladas frescas, ricas em folhas verdes, pepino e ervas aromáticas, são também características desta estação, temperadas com azeite de oliva extra virgem e um toque de vinagre ou sumo de limão. No inverno, as sopas e estufados ganham destaque, utilizando hortícolas como cenouras, nabos e abóbora, juntamente com leguminosas como feijões e lentilhas, que são bases para refeições reconfortantes e nutritivas.",
+          "Adicionalmente, a dieta Mediterrânica privilegia uma alimentação focada em ingredientes naturais e minimamente processados, limita  o reduzido consumo de alimentos processados, , limitando a ingestão de açúcares adicionados e gorduras saturadas, promovendo uma alimentação focada em ingredientes naturais e minimamente processados.",
+          "Clique para “Avançar” e descobrir mais sobre a importância da atividade física na prevenção da diabetes tipo 2."
+        ],
+        "answer": "Avançar!"
+      },
+      {
+        "order": 6,
+        "phrases": [
+          "A prática de atividade física regular é fundamental para a prevenção da diabetes tipo 2, oferecendo vários benefícios como a manutenção de um peso saudável.",
+          "A atividade física pode variar em intensidade, desde as caminhadas leves até exercícios mais vigorosos, como a corrida, a natação ou o ciclismo. O importante é escolher atividades prazerosas que possam ser realizadas com regularidade e consistência de forma a cumprir as recomendações.",
+          "A recomendação geral de atividade física para adultos, para poderem ser considerados adultos ativos, é de realizarem pelo menos 150 minutos de atividade física de intensidade moderada por semana ou 75 minutos de atividade física vigorosa por semana, que pode ser distribuída de maneira flexível de acordo com as preferências e a agenda de cada um. ",
+          "Uma forma comum de monitorização da atividade física é o número de passos diários realizado. A realização de 7000 passos por dia é necessária para cumprir as recomendações de atividade física e ter benefícios para a sua saúde e bem-estar. ",
+          "Quem conseguir fazer mais atividade física do que este mínimo recomendado (exemplo: 300 minutos de atividade física moderada ou até 12000 passos por dia) poderá obter benefícios adicionais para a saúde e bem-estar. Independentemente da atividade física ou do número de passos diários que já realiza, o aumento de 1000 passos por dia relativamente ao número de passos diários que habitualmente já realiza, pode ter um impacto muito significativo na diminuição do risco de desenvolvimento de Diabetes tipo 2.",
+          "A prática regular de atividade física também promove a saúde mental, reduzindo o stress e melhorando o humor e a qualidade do sono, o que pode contribuir para a motivação e a adesão a um estilo de vida saudável a longo prazo.",
+          "Incorporar momentos de atividade física no dia-a-dia, como subir escadas em vez de usar o elevador, caminhar durante o horário de almoço ou participar em sessões de exercício em grupo, pode ser uma forma eficaz de cumprir as recomendações de atividade física sem necessariamente dedicar um tempo extra para a prática.",
+          "Estou aqui para ajudar nesta jornada! Podemos avançar para as questões sobre hábitos alimentares e de atividade física?"
+        ],
+        "answer": "Vamos a isso!"
+      }
+    ]
+  }
+  
